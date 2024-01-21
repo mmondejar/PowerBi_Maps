@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<!--?xml version="1.0"?-->
+
+<svg
+   version="1.2"
+   width="100%"
+   height="100%"
+   viewBox="0 0 800 408"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   id="svg1"
+   sodipodi:docname="azuer_ii_lvl_1.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.76125"
+     inkscape:cx="399.71611"
+     inkscape:cy="204.11639"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 236.99,203.43 19.14,204.37 17.73,3.53 251.19,2.54 l 0.71,103.21 -15.87,0.07 z"
+     id="AZ21"
+     class="area"
+     title="AZ2-1"
+     style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:0.30000001"
+     inkscape:label="AZ2-1" />
+  <path
+     d="m 465.86,1.63 1.39,200.83 -229.06,0.96 -0.67,-96.25 15.25,-0.06 -0.73,-104.58 z"
+     id="AZ2-2"
+     class="area"
+     title="AZ2-2"
+     style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:0.30000001" />
+  <path
+     d="M 579.38,201.99 467.87,202.46 466.48,1.52 591.19,1 l 0.27,38.8 206.75,-0.86 0.79,116.03 -219.93,0.91 z"
+     id="AZ2-3"
+     class="area"
+     title="AZ2-3"
+     style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:0.30000001" />
+  <path
+     d="M 276.91,406.21 89.85,407 89.17,309.8 1.74,310.17 1,204.67 l 265.99,-1 0.72,102.68 8.51,-0.04 z"
+     id="AZ2-4"
+     class="area"
+     title="AZ2-4"
+     style="fill:#000000;fill-opacity:0.30000001;stroke:#000000;stroke-opacity:1" />
+  <path
+     d="m 576.73,202.37 0.34,49.46 -46.62,48.41 -62.33,38.08 -86.83,67.45 -103.21,0.43 -0.7,-100.65 -8.35,0.03 -0.7,-101.92 z"
+     id="AZ2-5"
+     class="area active"
+     title="AZ2-5"
+     style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:0.30000001" />
+</svg>
